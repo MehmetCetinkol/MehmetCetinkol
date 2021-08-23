@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MehmetCetinkol
-- 👀 I’m interested in pyhton 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ai with Python 
+- 🌱 I’m currently learning machine learning right now
 - 📫 How to reach me alimehmetcetinkol@gmail.com
 
 <!---
